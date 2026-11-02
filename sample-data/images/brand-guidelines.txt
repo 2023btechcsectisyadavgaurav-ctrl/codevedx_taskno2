@@ -1,0 +1,7 @@
+ACME Corp - Brand Guidelines (SAMPLE DATA)
+
+Primary colour: #1A73E8
+Secondary colour: #34A853
+Logo files live in this folder (images/).
+
+This file is fictional sample data used to demonstrate the storage hierarchy.

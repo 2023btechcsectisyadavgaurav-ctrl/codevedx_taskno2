@@ -1,0 +1,6 @@
+ACME Corp - Employee Handbook (SAMPLE DATA)
+
+Welcome to ACME Corp. This handbook covers working hours, leave, expenses
+and how to request access to company systems.
+
+This file is fictional sample data used to demonstrate the storage hierarchy.

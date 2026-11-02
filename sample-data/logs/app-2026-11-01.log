@@ -1,0 +1,4 @@
+2026-11-01T08:00:01Z INFO  service started
+2026-11-01T08:00:05Z INFO  health check ok
+2026-11-01T08:15:42Z WARN  slow response (1.8s) on /api/reports
+2026-11-01T09:00:00Z INFO  daily job finished

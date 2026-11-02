@@ -1,0 +1,8 @@
+ACME Corp - Information Security Policy (SAMPLE DATA)
+
+1. All company data must be stored in approved cloud storage.
+2. Data is encrypted at rest with customer-managed keys and in transit with TLS.
+3. Access follows least privilege and is reviewed quarterly.
+4. Backups run automatically and are tested every quarter.
+
+This file is fictional sample data used to demonstrate the storage hierarchy.
